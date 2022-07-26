@@ -69,6 +69,6 @@ Jul 14th 2022 - FLIGHT TO SINGAPORE.
 
 Jul 19th 2022 - Section 32, video 326 to 333.
 Jul 20th 2022 - Section 33, video 334 to 338.
-Jul 21st 2022 - Section 34, video 339 to 350.
+Jul 21st 2022 - Section 34, video 339 tggo 350.
 
 Jul 26th 2022 - Section 34, video 339 to 350.
