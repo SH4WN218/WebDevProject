@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,800&display=swap");
+
+img {
+	height: 250px;
+	margin: 1.666%;
+	object-fit: cover;
+	width: 30%;
+}
+
+nav {
+	border-bottom: 2px solid #f1f1f1;
+	font-family: Raleway;
+	font-size: 1.5em;
+	font-weight: 800;
+	padding: 1em 0;
+	width: 30%;
+	margin-left: 1.66%;
+	text-transform: uppercase;
+}

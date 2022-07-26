@@ -1,0 +1,21 @@
+* {
+	color: teal;
+}
+
+body {
+	background-color: greenyellow;
+}
+
+hr {
+	color: #f1f1f1;
+}
+
+h2,
+h3 {
+	color: aquamarine;
+}
+
+#url {
+	color: lightblue;
+	text-decoration: underline;
+}

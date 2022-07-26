@@ -1,0 +1,35 @@
+/* SPECIFICITY - ELEMENT < CLASS < ID < INLINE STYLES < !important attribute */
+
+div {
+	width: 350px;
+	height: 350px;
+}
+
+h1 {
+	background-color: pink;
+	width: 100px;
+	padding-left: 100px;
+	padding-top: 50px;
+}
+
+#one {
+	background-color: #f1c875;
+	border: 5px solid goldenrod;
+	margin-left: 50px;
+}
+
+#two {
+	background-color: #f3c15f;
+	border: 4px dashed goldenrod;
+	margin: 200px;
+}
+
+#three {
+	background-color: #ffaf37;
+	border: 5px solid goldenrod;
+	border-radius: 50%;
+}
+
+button {
+	padding: 10px 10px 10px 10px;
+}
